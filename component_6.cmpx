@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1251</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID 7be5fbe1-3ce0-4b12-8811-a556ea7e4a5f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">component_6</_name>
+			<_modifiedTimeWeak type="a">6.18.2020::10:42:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.18.2020::10:42:34</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID f1dda417-93ca-44db-9a16-984f0c5bfa96</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">6.18.2020::10:42:34</weakCGTime>
+			<strongCGTime type="a">6.18.2020::9:16:58</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID 3052fd21-e04a-412f-bc03-64d8636cb5ae</value>
+				<value>GUID acd0fc5c-7a5b-4d31-bee3-9df8c14fc617</value>
+				<value>GUID b6d1d370-b532-4029-9b65-313504b33165</value>
+				<value>GUID f1dda417-93ca-44db-9a16-984f0c5bfa96</value>
+			</AggregatesList>
+		</IComponent>
+		<IDependency type="e">
+			<_id type="a">GUID 3052fd21-e04a-412f-bc03-64d8636cb5ae</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">component_5</_name>
+			<_modifiedTimeWeak type="a">6.18.2020::9:42:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.18.2020::9:42:58</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hfilename type="a">.\component_5.cmpx</_hfilename>
+					<_hname type="a">component_5</_hname>
+					<_hid type="a">GUID 8066a634-4ba8-475c-b3f5-8aa455d7f715</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hid type="a">GUID 7be5fbe1-3ce0-4b12-8811-a556ea7e4a5f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID acd0fc5c-7a5b-4d31-bee3-9df8c14fc617</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">component_4</_name>
+			<_modifiedTimeWeak type="a">6.18.2020::10:42:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.18.2020::10:42:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hfilename type="a">.\component_4.cmpx</_hfilename>
+					<_hname type="a">component_4</_hname>
+					<_hid type="a">GUID f23dac2a-0027-4727-97fc-bce01d40abf0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hid type="a">GUID 7be5fbe1-3ce0-4b12-8811-a556ea7e4a5f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IFolder type="e">
+			<_id type="a">GUID b6d1d370-b532-4029-9b65-313504b33165</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">6.18.2020::9:16:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.18.2020::9:16:58</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID f1dda417-93ca-44db-9a16-984f0c5bfa96</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.18.2020::9:16:58</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">None</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 7d9bdb3c-7427-4644-9ac8-16b48f1b32ee</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IFolder type="e">
+			<_id type="a">GUID 7d9bdb3c-7427-4644-9ac8-16b48f1b32ee</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.18.2020::9:16:58</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

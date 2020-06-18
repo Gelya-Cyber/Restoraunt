@@ -1,0 +1,240 @@
+I-Logix-RPY-Archive version 8.15.0 * 202002261110
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 44;
+	- value = "DefaultComponent\\DefaultConfig\\Admin.cpp" 6.18.2020::12:6:17
+	"DefaultComponent\\DefaultConfig\\Admin.h" 6.18.2020::12:6:17
+	"DefaultComponent\\DefaultConfig\\Authorization_Form.cpp" 6.18.2020::12:6:14
+	"DefaultComponent\\DefaultConfig\\Authorization_Form.h" 6.18.2020::12:6:14
+	"DefaultComponent\\DefaultConfig\\CancelReservation_Form.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\CancelReservation_Form.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\Client.cpp" 6.18.2020::12:6:17
+	"DefaultComponent\\DefaultConfig\\Client.h" 6.18.2020::12:6:17
+	"DefaultComponent\\DefaultConfig\\Database.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\Database.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\Default.cpp" 6.18.2020::12:6:17
+	"DefaultComponent\\DefaultConfig\\Default.h" 6.18.2020::12:6:17
+	"DefaultComponent\\DefaultConfig\\Main_Form.cpp" 6.18.2020::12:6:15
+	"DefaultComponent\\DefaultConfig\\Main_Form.h" 6.18.2020::12:6:15
+	"DefaultComponent\\DefaultConfig\\MenuAdd_Form.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\MenuAdd_Form.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\MenuDelete_Form.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\MenuDelete_Form.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\MenuEdit_Form.cpp" 6.18.2020::12:6:15
+	"DefaultComponent\\DefaultConfig\\MenuEdit_Form.h" 6.18.2020::12:6:15
+	"DefaultComponent\\DefaultConfig\\Menu_Form.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\Menu_Form.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\OrderAdd_Form.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\OrderAdd_Form.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\OrderDelete_Form.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\OrderDelete_Form.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\OrderEdit_Form.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\OrderEdit_Form.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\Order_Form.cpp" 6.18.2020::12:6:15
+	"DefaultComponent\\DefaultConfig\\Order_Form.h" 6.18.2020::12:6:15
+	"DefaultComponent\\DefaultConfig\\Reservation_Form.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\Reservation_Form.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\Table_Form.cpp" 6.18.2020::12:6:15
+	"DefaultComponent\\DefaultConfig\\Table_Form.h" 6.18.2020::12:6:15
+	"DefaultComponent\\DefaultConfig\\Waiter.cpp" 6.18.2020::12:6:17
+	"DefaultComponent\\DefaultConfig\\Waiter.h" 6.18.2020::12:6:17
+	"DefaultComponent\\DefaultConfig\\WaiterAdd_Form.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\WaiterAdd_Form.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\WaiterDelete_Form.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\WaiterDelete_Form.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\WaiterEdit_Form.cpp" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\WaiterEdit_Form.h" 6.18.2020::12:6:16
+	"DefaultComponent\\DefaultConfig\\Waiter_Form.cpp" 6.18.2020::12:6:15
+	"DefaultComponent\\DefaultConfig\\Waiter_Form.h" 6.18.2020::12:6:15
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 79d30006-1f66-424e-ae5b-5626dfcf3a0c" "GUID b5621ef5-a3ac-4829-9f84-c0156c010336"
+	"GUID 7f15c974-4798-4a3d-8070-1fb79001065f" "GUID b5621ef5-a3ac-4829-9f84-c0156c010336"
+	
+}
+- size = 23;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Reservation_Form";
+	- _id = GUID 448330e2-fd8a-4002-96c9-366830236fad;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Authorization_Form";
+	- _id = GUID 1443a5f5-05f4-4e20-a67a-7725c288481c;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Admin";
+	- _id = GUID f9d84198-162b-4e07-a17e-3e65deae4ee5;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "CancelReservation_Form";
+	- _id = GUID 6ee8e1e1-43f2-41c8-930b-e0fb9b5cc93c;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Main_Form";
+	- _id = GUID a8759d16-7637-4876-b076-c6db6943e7f9;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "OrderAdd_Form";
+	- _id = GUID 24821b05-f202-4be6-a9a9-ca82a4931c25;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Order_Form";
+	- _id = GUID 80701cbc-204e-4fd7-8b6b-78c2f69165f9;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "WaiterAdd_Form";
+	- _id = GUID eb4ebb57-630c-4972-9b8a-281faa48215f;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Waiter_Form";
+	- _id = GUID d14ad7f7-dd4b-4b50-8920-3f26e1a1bcfe;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "WaiterEdit_Form";
+	- _id = GUID fbc4988d-f12c-41e1-a64a-c81c383471a7;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "WaiterDelete_Form";
+	- _id = GUID 329cace1-a3c2-4f90-8dd3-9a0d699ab35a;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "MenuDelete_Form";
+	- _id = GUID 9366afcd-c1cb-42fa-9ce7-b68fab455073;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "OrderDelete_Form";
+	- _id = GUID 303742b9-0a38-40ef-ad36-3b285aae7040;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\Restoran_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID d186167a-a7a2-4253-99c8-af5527078ac6;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "OrderEdit_Form";
+	- _id = GUID 0abac70d-dd30-4fc8-aac2-1bd4ec942cb3;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Client";
+	- _id = GUID e88edb32-a97e-42da-8a45-612efe0b27d2;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "MenuEdit_Form";
+	- _id = GUID 30ef2cf9-dfff-4603-92c9-328698c7c134;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Table_Form";
+	- _id = GUID d4e8e783-389d-4af6-8c64-954aae7cc18e;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "MenuAdd_Form";
+	- _id = GUID 689cc951-9419-420b-88d2-fecee2888574;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Waiter";
+	- _id = GUID 38a047cf-ac7e-497b-b9f4-2fa3b14536b7;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _name = "Default";
+	- _id = GUID 7f15c974-4798-4a3d-8070-1fb79001065f;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Menu_Form";
+	- _id = GUID 1f16faf4-e461-414e-b42a-cc5a1e880d27;
+}
+- genTime = 6.18.2020::12:6:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Restoran_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Database";
+	- _id = GUID e9d89503-0d41-44bd-9eff-06e751a3cc9d;
+}
+- genTime = 6.18.2020::12:6:17;
+
